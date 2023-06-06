@@ -11,4 +11,4 @@ Assets\Scenes\Main.unity
 - Esc - Pause Menu
 
 *game map*
-![alt text](https://github.com/PiotrCynowski/BG_Test/blob/master/GitPics/pic_testProject.png?raw=true)
+![alt text](https://github.com/PiotrCynowski/BG_TestProject/blob/master/GitPics/pic_testProject.png?raw=true)
